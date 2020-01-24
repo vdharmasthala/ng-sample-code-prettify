@@ -19,7 +19,6 @@
     "@angular/platform-browser": "~9.0.0-rc.9",
     "@angular/platform-browser-dynamic": "~9.0.0-rc.9",
     "@angular/router": "~9.0.0-rc.9",
-    "code-prettify": "^0.1.0",
     "raw-loader": "^4.0.0",
     "rxjs": "~6.5.3",
     "tslib": "^1.10.0",
