@@ -1,7 +1,7 @@
 # NgSampleCodePrettify
 
 This sample project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.0.0-rc.9.
-This project demonstrates how to create syntax highlighting in Angular 9 using Code Prettify.
+This project demonstrates how to create syntax highlighting in Angular 9 using code-prettify and raw-loader.
 
 ## Development server
 
